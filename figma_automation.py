@@ -23,7 +23,7 @@ login_button.click()
 
 time.sleep(5)  
 
-driver.get("https://www.figma.com/files/team/1406855575909587373/all-projects?fuid=1406844920450176090")
+driver.get("https://www.figma.com/files/team/#team-ID#")
 
 time.sleep(5)  
 
